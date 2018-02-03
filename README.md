@@ -44,7 +44,7 @@ liq = Liquidation()
 # Buy 1000 contracts at $10,0000 with 10x leverage
 liq.calc_buy(10000, 1000, 10, 0.000375)
 
-# Buy 1000 contracts at $10,0000 with 10x leverage
-liq.calc_buy(10000, 1000, 10, 0.000375)
+# Sell 1000 contracts at $10,0000 with 10x leverage
+liq.calc_sell(10000, 1000, 10, 0.000375)
 ```
 
