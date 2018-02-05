@@ -1,6 +1,6 @@
 # bitmex_utils 
 
-Utility scripts for BitMEX Derivatives Exchange
+Utility scripts for BitMEX
 
 ## Liquidation Calculator
 
