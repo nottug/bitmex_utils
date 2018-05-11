@@ -30,7 +30,7 @@ Liquidation = bankrupt - (avg_entry_price * (maintenance_margin - funding_rate)
 #### For margin calculations:
 ```
 initial_margin = (1 / leverage) - taker_fee - taker_fee
-maintenance_margin = 0.05% * taker_fee
+maintenance_margin = 0.5% * taker_fee
 ```
 For XBTUSD the taker fee is 0.075%.
 
